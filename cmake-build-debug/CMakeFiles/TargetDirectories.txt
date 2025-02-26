@@ -1,0 +1,3 @@
+C:/Users/Administrator/OneDrive - HWR Berlin/Dokumente/HWR/Roulett/cmake-build-debug/CMakeFiles/GameC.dir
+C:/Users/Administrator/OneDrive - HWR Berlin/Dokumente/HWR/Roulett/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/OneDrive - HWR Berlin/Dokumente/HWR/Roulett/cmake-build-debug/CMakeFiles/rebuild_cache.dir
