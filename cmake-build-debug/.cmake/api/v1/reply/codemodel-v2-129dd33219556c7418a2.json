@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Administrator/OneDrive - HWR Berlin/Dokumente/HWR/Roulett/cmake-build-debug",
-		"source" : "C:/Users/Administrator/OneDrive - HWR Berlin/Dokumente/HWR/Roulett"
+		"build" : "C:/Users/Administrator/Roulette/cmake-build-debug",
+		"source" : "C:/Users/Administrator/Roulette"
 	},
 	"version" : 
 	{

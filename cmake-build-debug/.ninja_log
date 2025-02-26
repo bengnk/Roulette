@@ -1,11 +1,7 @@
 # ninja log v5
-4	4456	7604625898394773	CMakeFiles/GameC.dir/Roulette.cpp.obj	b4e3d38eb0b9e61d
-1	159	7604661816700462	build.ninja	f74cc8caf74c75ce
-2	828	7604647022888138	CMakeFiles/GameC.dir/main.cpp.obj	d3397a172823e763
-829	1030	7604647024855671	GameC.exe	fbc0dcf286b7319d
-2	761	7604661826317179	CMakeFiles/GameC.dir/main.cpp.obj	d3397a172823e763
-762	991	7604661828588250	GameC.exe	fbc0dcf286b7319d
-8	1271	7604664537934512	CMakeFiles/GameC.dir/main.cpp.obj	d3397a172823e763
-7	458	7604665796057778	CMakeFiles/GameC.dir/Roulette.cpp.obj	b4e3d38eb0b9e61d
-3	659	7604665798049084	CMakeFiles/GameC.dir/main.cpp.obj	d3397a172823e763
-660	761	7604665799054449	GameC.exe	fbc0dcf286b7319d
+6	725	7622798687116945	CMakeFiles/GameC.dir/Roulette.cpp.obj	43cb8c2eb4a338f7
+0	965	7622798689512803	CMakeFiles/GameC.dir/main.cpp.obj	7b007d47b7e16cd3
+965	1086	7622798690695749	GameC.exe	fbc0dcf286b7319d
+6	471	7622802875982798	CMakeFiles/GameC.dir/Roulette.cpp.obj	43cb8c2eb4a338f7
+3	663	7622802877893306	CMakeFiles/GameC.dir/main.cpp.obj	7b007d47b7e16cd3
+663	764	7622802878878960	GameC.exe	fbc0dcf286b7319d
